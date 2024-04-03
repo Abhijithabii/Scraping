@@ -61,3 +61,4 @@ uritemplate==4.1.1
 urllib3==2.1.0
 webdriver-manager==4.0.1
 wsproto==1.2.0
+gunicorn
